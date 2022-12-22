@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-21T18:48:24.151Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1000,
+      "createdAt": "2022-12-21T18:48:24.151Z"
+    },
+    {
+      "id": 3,
+      "description": "Compra do mês",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 750,
+      "createdAt": "2022-12-21T18:48:24.151Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 5000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-22T00:12:14.909Z",
+      "id": 4
+    },
+    {
+      "description": "Pneu do carro",
+      "price": 2500,
+      "category": "Carro",
+      "type": "outcome",
+      "createdAt": "2022-12-22T00:13:21.486Z",
+      "id": 5
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-22T00:26:13.509Z",
+      "id": 6
+    }
+  ]
+}
