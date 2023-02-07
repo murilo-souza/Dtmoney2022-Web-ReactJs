@@ -23,6 +23,7 @@
 <h2>Features</h2>
 <ul>
   <li>Input validation</li>
+  <li>Search transactions</li>
   <li>Money visualisation</li>
   <li>Add new transaction</li>
 </ul>
