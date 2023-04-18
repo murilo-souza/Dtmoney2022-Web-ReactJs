@@ -31,3 +31,5 @@
 <h2>Layout</h2>
 <p>To see the complet layout of the application, access the <a href="https://www.figma.com/file/mRbSfSYPyO7orpKUfx8CqF/DT-Money-(Community)?node-id=0%3A1&t=3yyqJeTQU1cXR6HQ-0">Link</a></p>
 
+<h2>Video</h2>
+<p>To watch the application video, access the <a href="https://www.linkedin.com/posts/murilo-leme-de-souza_react-reactjs-rocketseat-activity-7031755777245626368-b3fR?utm_source=share&utm_medium=member_desktop">Link<a/>
